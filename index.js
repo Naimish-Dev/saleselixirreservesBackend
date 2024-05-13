@@ -10,6 +10,8 @@ const allowedOrigins = [
   "https://saleselixirreserves.com",
   "https://www.saleselixirreserves.com/",
   "https://www.saleselixirreserves.com",
+  "https://www.saleselixirreserve.com",
+  "https://www.saleselixirreserve.com/",
   "https://76.76.21.9:443",
   "https://76.76.21.9:443/",
 ];
